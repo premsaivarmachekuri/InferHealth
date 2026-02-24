@@ -1,0 +1,11 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openai
+scikit-learn
+seaborn
+python-dotenv
+chromadb
+langchain-community
+google-search-results
