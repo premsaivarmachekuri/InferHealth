@@ -1,4 +1,4 @@
-from app.core.langgraph.agent import agent_executor
+from app.core.agents.agent import agent_executor
 
 def main():
     print("=== InferHealth Production Agent Ready ===")

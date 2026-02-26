@@ -8,4 +8,7 @@ seaborn
 python-dotenv
 chromadb
 langchain-community
+langgraph
 google-search-results
+dotenv
+fastapi
