@@ -1,4 +1,4 @@
-# 🏥 InferHealth: Production-Grade Medical Agent
+2# 🏥 InferHealth: Production-Grade Medical Agent
 
 InferHealth is a state-of-the-art AI medical assistant built with **LangGraph**, **FastAPI**, and **ChromaDB**. It uses a ReAct (Reasoning + Action) pattern to retrieve medical knowledge, find nearby hospitals, and perform web searches to provide accurate, context-aware health information.
 
@@ -117,4 +117,4 @@ curl.exe -X POST "http://127.0.0.1:8000/v1/chat" `
 *InferHealth is an AI-powered assistant for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.*
 
 ---
-Designed with ❤️ by [Your Name]
+Designed with ❤️ by Premsai Varma
